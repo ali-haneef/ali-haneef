@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **haneefali970@gmail.com**
 
-- ⚡ Fun fact **I think I Am funny**
+- ⚡ Fun fact **When I'm not coding, you can find me exploring new hiking trails and capturing moments with my camera 📷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
