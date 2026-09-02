@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Haneef</h1>
 <h3 align="center">A passionate frontend web developer.</h3>
 
-- 🔭 I’m currently working on **Fabmedia**
+- 🔭 I’m currently working on **Technology Brainz**
 
 - 🌱 I’m currently learning **Laravel**
 
